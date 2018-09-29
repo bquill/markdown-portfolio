@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* **I code in C#**
+* **I code in ASNA AVR**
+* *I have many years experience creating software for the legal industry*
+**I am a 50% owner of Nelson & Quillin Corporation**
