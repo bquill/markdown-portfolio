@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+Bruce Quillin
+# This is my life story
+## I was born a poor black chile!
